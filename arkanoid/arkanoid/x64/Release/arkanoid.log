@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\huawe\source\repos\Michalz523\arkanoid\arkanoid\main.cpp(17,25): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\huawe\source\repos\Michalz523\arkanoid\arkanoid\main.cpp(27,67): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\huawe\source\repos\Michalz523\arkanoid\arkanoid\main.cpp(27,67): warning C4244:         with
+C:\Users\huawe\source\repos\Michalz523\arkanoid\arkanoid\main.cpp(27,67): warning C4244:         [
+C:\Users\huawe\source\repos\Michalz523\arkanoid\arkanoid\main.cpp(27,67): warning C4244:             T=unsigned int
+C:\Users\huawe\source\repos\Michalz523\arkanoid\arkanoid\main.cpp(27,67): warning C4244:         ]
+C:\Users\huawe\source\repos\Michalz523\arkanoid\arkanoid\main.cpp(27,43): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\huawe\source\repos\Michalz523\arkanoid\arkanoid\main.cpp(27,43): warning C4244:         with
+C:\Users\huawe\source\repos\Michalz523\arkanoid\arkanoid\main.cpp(27,43): warning C4244:         [
+C:\Users\huawe\source\repos\Michalz523\arkanoid\arkanoid\main.cpp(27,43): warning C4244:             T=unsigned int
+C:\Users\huawe\source\repos\Michalz523\arkanoid\arkanoid\main.cpp(27,43): warning C4244:         ]
+  Trwa generowanie kodu
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 460 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  arkanoid.vcxproj -> C:\Users\huawe\source\repos\Michalz523\arkanoid\x64\Release\arkanoid.exe
